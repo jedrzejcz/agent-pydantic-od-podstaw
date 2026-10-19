@@ -1,0 +1,3 @@
+pydantic-ai-slim[openrouter,web]>=2.55,<3
+python-dotenv>=1.0
+tzdata  # baza stref czasowych, potrzebna na Windowsie
